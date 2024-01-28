@@ -17,7 +17,7 @@ import matplotlib as plt
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-DATA_PATH = "airline_100.csv"
+DATA_PATH = "airline_2m.csv"
 
 # Read data from the dataset and make sure to force some columns with mixed
 # types fo be read as strings.
@@ -51,18 +51,4 @@ p = (
     .label(y="Number of flights")
 )
 
-
-plot = sns.barplot(x="IATA_CODE_Reporting_Airline", hue='ArrDel15', data=df)
-
-# sns.barplot method will return a list of 
-# sub methods use containers method to access 
-# the text label of each bar by passing it 
-# through the ax.bar_label function use for
-# loop to iterate through the list of
-# labels and assign each bar to a different 
-# label.
-for i in plot.containers:
-    plot.bar_label(i,)
-
-
-plt.show()
+p.show()

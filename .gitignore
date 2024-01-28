@@ -2,6 +2,9 @@
 data_analytics/
 DataAnalysis/
 test*
+step_5_insights.pptx
+step_5_insights.pdf
+ANALYSIS.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

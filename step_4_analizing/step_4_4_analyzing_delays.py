@@ -116,3 +116,15 @@ p = (
 )
 
 p.show()
+
+# 12. Get quocients
+for carrier in stats:
+    # We can generate a quocient if both values do exist!
+    try:
+        nof_with_delay = stats[carrier]["NumOfFlights_WITH_delay"]
+        nof_no_delay   = stats[carrier]["NumOfFlights_WITHOUT_delay"]
+        nof            = nof_with_delay + nof_no_delay
+        quocient=(nof_with_delay / nof)
+        print(f"Company {carrier}: the quocient is {quocient:.2%}")
+    except KeyError:
+        print(f"Company {carrier}: it has NO delayed flights registered")

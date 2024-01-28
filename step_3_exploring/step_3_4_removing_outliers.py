@@ -33,8 +33,8 @@ columns = [
 for current_column in columns:
     new_df = df[df[current_column] < df[current_column].quantile (0.98)]
     # We are only removing negative values for AirTime.
-    # if current_column == "AirTime":
-    #     new_df = new_df[new_df[current_column] >= 0]
+    if current_column == "AirTime":
+        new_df = new_df[new_df[current_column] >= 0]
 
     # Create a histogram with density curve overlaid (enabling KDE, which means
     # kernel density estimates (KDEs)). It also calculates automatically the
