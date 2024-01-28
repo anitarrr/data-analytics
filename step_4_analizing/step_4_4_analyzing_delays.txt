@@ -1,0 +1,70 @@
+The carrier 9E has 15640 flights with arrival delay less than than 15 minutes
+The carrier 9E has  2910 flights with arrival delay greater   than 15 minutes
+The carrier AA has 183717 flights with arrival delay less than than 15 minutes
+The carrier AA has 40937 flights with arrival delay greater   than 15 minutes
+The carrier AL has  3565 flights with arrival delay less than than 15 minutes
+The carrier AL has   986 flights with arrival delay greater   than 15 minutes
+The carrier AQ has  1392 flights with arrival delay less than than 15 minutes
+The carrier AQ has   150 flights with arrival delay greater   than 15 minutes
+The carrier AS has 39446 flights with arrival delay less than than 15 minutes
+The carrier AS has  8614 flights with arrival delay greater   than 15 minutes
+The carrier B6 has 27994 flights with arrival delay less than than 15 minutes
+The carrier B6 has  7395 flights with arrival delay greater   than 15 minutes
+The carrier CO has 16352 flights with arrival delay greater   than 15 minutes
+The carrier CO has 71292 flights with arrival delay less than than 15 minutes
+The carrier DH has  1324 flights with arrival delay greater   than 15 minutes
+The carrier DH has  5385 flights with arrival delay less than than 15 minutes
+The carrier DL has 211452 flights with arrival delay less than than 15 minutes
+The carrier DL has 44825 flights with arrival delay greater   than 15 minutes
+The carrier EA has  1530 flights with arrival delay greater   than 15 minutes
+The carrier EA has  7329 flights with arrival delay less than than 15 minutes
+The carrier EV has 12818 flights with arrival delay greater   than 15 minutes
+The carrier EV has 50082 flights with arrival delay less than than 15 minutes
+The carrier F9 has 10995 flights with arrival delay less than than 15 minutes
+The carrier F9 has  2777 flights with arrival delay greater   than 15 minutes
+The carrier FL has 20431 flights with arrival delay less than than 15 minutes
+The carrier FL has  4515 flights with arrival delay greater   than 15 minutes
+The carrier G4 has  1760 flights with arrival delay less than than 15 minutes
+The carrier G4 has   408 flights with arrival delay greater   than 15 minutes
+The carrier HA has 10654 flights with arrival delay less than than 15 minutes
+The carrier HA has   924 flights with arrival delay greater   than 15 minutes
+The carrier HP has 29618 flights with arrival delay less than than 15 minutes
+The carrier HP has  6862 flights with arrival delay greater   than 15 minutes
+The carrier ML has   133 flights with arrival delay greater   than 15 minutes
+The carrier ML has   615 flights with arrival delay less than than 15 minutes
+The carrier MQ has 14651 flights with arrival delay greater   than 15 minutes
+The carrier MQ has 58303 flights with arrival delay less than than 15 minutes
+The carrier NK has  1474 flights with arrival delay greater   than 15 minutes
+The carrier NK has  6671 flights with arrival delay less than than 15 minutes
+The carrier NW has 18925 flights with arrival delay greater   than 15 minutes
+The carrier NW has 86244 flights with arrival delay less than than 15 minutes
+The carrier OH has 18568 flights with arrival delay less than than 15 minutes
+The carrier OH has  4587 flights with arrival delay greater   than 15 minutes
+The carrier OO has 16247 flights with arrival delay greater   than 15 minutes
+The carrier OO has 85711 flights with arrival delay less than than 15 minutes
+The carrier PA has  2478 flights with arrival delay less than than 15 minutes
+The carrier PA has   611 flights with arrival delay greater   than 15 minutes
+The carrier PI has  2192 flights with arrival delay greater   than 15 minutes
+The carrier PI has  6528 flights with arrival delay less than than 15 minutes
+The carrier PS has   207 flights with arrival delay greater   than 15 minutes
+The carrier PS has   641 flights with arrival delay less than than 15 minutes
+The carrier RU has 10338 flights with arrival delay less than than 15 minutes
+The carrier RU has  2561 flights with arrival delay greater   than 15 minutes
+The carrier TW has 30068 flights with arrival delay less than than 15 minutes
+The carrier TW has  7086 flights with arrival delay greater   than 15 minutes
+The carrier TZ has  1708 flights with arrival delay less than than 15 minutes
+The carrier TZ has   376 flights with arrival delay greater   than 15 minutes
+The carrier UA has 149674 flights with arrival delay less than than 15 minutes
+The carrier UA has 35743 flights with arrival delay greater   than 15 minutes
+The carrier US has 131968 flights with arrival delay less than than 15 minutes
+The carrier US has 30003 flights with arrival delay greater   than 15 minutes
+The carrier VX has  3121 flights with arrival delay less than than 15 minutes
+The carrier VX has   719 flights with arrival delay greater   than 15 minutes
+The carrier WN has 247604 flights with arrival delay less than than 15 minutes
+The carrier WN has 50415 flights with arrival delay greater   than 15 minutes
+The carrier XE has 16670 flights with arrival delay less than than 15 minutes
+The carrier XE has  4069 flights with arrival delay greater   than 15 minutes
+The carrier YV has 17372 flights with arrival delay less than than 15 minutes
+The carrier YV has  3675 flights with arrival delay greater   than 15 minutes
+The carrier YX has  1159 flights with arrival delay greater   than 15 minutes
+The carrier YX has  5953 flights with arrival delay less than than 15 minutes
