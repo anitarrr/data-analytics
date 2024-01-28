@@ -66,4 +66,4 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 The `.gitignore` file is based in the public [GitHub’s collection of .gitignore file templates](https://github.com/github/gitignore).
 
 ## Project status
-This project is currently in active development.
+This project is no longer under active development.
